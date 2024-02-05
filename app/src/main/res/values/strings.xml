@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BBC</string>
+    <string name="login_title">Login</string>
+    <string name="headline_list_title">News</string>
+    <string name="headline_info_title">Headline Info</string>
+    <string name="use_biometrics">Use biometrics</string>
+    <string name="login_with_fingerprint">Login with fingerprint</string>
+    <string name="cancel">cancel</string>
+</resources>
